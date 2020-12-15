@@ -1,5 +1,5 @@
 <template>
-  <header class="flex justify-between py-5 items-center">
+  <header class="flex justify-between py-5 items-center mb-5">
     <h1 class="text-md text-gray-500 uppercase">{{ title }}</h1>
 
     <button class="hover:bg-blue-200 hover:text-blue-800 group flex items-center rounded-md bg-blue-100 text-blue-600 text-sm font-medium px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75 transition-colors">
